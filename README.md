@@ -19,7 +19,7 @@ This portfolio includes work in:
 * **Natural Language Processing (NLP)**
   Text processing, language modeling, sentiment analysis, and intelligent language-based systems
 
-* **Deep Learning & Artificial Intelligence**
+* **Deep Learning Artificial Intelligence**
   Neural networks, deep architectures, optimization techniques, and AI-driven applications
 
 * **Applied AI Projects**
