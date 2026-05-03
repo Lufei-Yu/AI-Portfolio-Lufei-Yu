@@ -4,3 +4,6 @@
 [submodule "Projects/ITAI2373_Natural Language Processing"]
 	path = Projects/ITAI2373_Natural Language Processing
 	url = https://github.com/Lufei-Yu/ITAI-2373-Natural-Language-Processing.git
+[submodule "Projects/ITAI2376_Deep Learning"]
+	path = Projects/ITAI2376_Deep Learning
+	url = https://github.com/Lufei-Yu/ITAI-2376-Deep-Learning-Artificial-Intelligence.git
