@@ -1,3 +1,6 @@
 [submodule "Projects/ITAI1371_Machine Learning"]
 	path = Projects/ITAI1371_Machine Learning
 	url = https://github.com/AbdullahFaiza/ITAI_ML_FirstRepo_FaizaAbdullah.git
+[submodule "Projects/ITAI2373_Natural Language Processing"]
+	path = Projects/ITAI2373_Natural Language Processing
+	url = https://github.com/Lufei-Yu/ITAI-2373-Natural-Language-Processing.git
