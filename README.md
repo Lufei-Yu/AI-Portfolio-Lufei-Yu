@@ -1,11 +1,12 @@
 
 Here’s a polished GitHub introduction for your **AI-Portfolio-Lufei-Yu** repository README:
 
-## Introduction
-
 # AI-Portfolio-Lufei-Yu
 
-Welcome to **AI-Portfolio-Lufei-Yu**, a curated portfolio showcasing academic projects, research, and practical implementations in **Artificial Intelligence, Machine Learning, Natural Language Processing, and Deep Learning**.
+
+## About Me
+
+I am an Applied AI student at Houston Community College. Welcome to my **AI-Portfolio-Lufei-Yu**, a curated portfolio showcasing academic projects, research, and practical implementations in **Artificial Intelligence, Machine Learning, Natural Language Processing, and Deep Learning**.
 
 This repository serves as a centralized hub for coursework, experiments, and applied AI solutions developed throughout my academic journey. Each project demonstrates hands-on experience with designing intelligent systems, implementing machine learning models, and solving real-world computational problems using modern AI frameworks and tools.
 
@@ -47,4 +48,11 @@ The goal of this repository is to:
 * Provide a structured portfolio for professional and academic opportunities
 
 This portfolio reflects continuous exploration of artificial intelligence and its applications across diverse computational domains.
+
+## Contact
+- Email: lufeiyu.co@gmail.com
+- LinkedIn: www.linkedin.com/in/lufei-y-538792352
+- GitHub: https://github.com/Lufei-Yu/AI-Portfolio-Lufei-Yu
+
+
 
